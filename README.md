@@ -4,9 +4,7 @@ Official Bitsocial visual assets.
 
 ## License
 
-Unless otherwise noted, the assets in this repository are licensed under the GNU General Public License v3.0 or later (`GPL-3.0-or-later`). See [LICENSE](LICENSE).
-
-The Bitsocial name and logo may also function as project marks. The copyright license permits copying, modification, and redistribution of the asset files; it does not grant permission to misrepresent affiliation, endorsement, or ownership.
+To the extent possible under law, Bitsocial has waived all copyright and related rights to the assets in this repository, dedicating them to the **public domain** under [CC0 1.0 Universal](LICENSE) (`CC0-1.0`). Like the Bitcoin logo, these assets are ownerless — anyone may use, copy, modify, and redistribute them for any purpose, without restriction or attribution.
 
 ## Files
 
