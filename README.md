@@ -34,6 +34,13 @@ PNG logo exports are provided at `32`, `64`, `96`, `180`, `512`, `1024`, and `30
 
 The `banner-*` files are the reusable hero/banner assets currently used by the Bitsocial web surfaces.
 
+### pkc-js
+
+Wordmark-over-p2p-mesh assets for the [pkc-js](https://github.com/bitsocialnet/pkc-js) repository, in [assets/pkc-js](assets/pkc-js):
+
+- `icon-on-white-500.png` and `icon-on-black-500.png` are 500 x 500 square icons (e.g. group/community icons).
+- `banner-light-1280x640.png` and `banner-dark-1280x640.png` are 1280 x 640 banners sized for the GitHub repository social preview.
+
 ## Export Notes
 
 Logo PNGs and `logo-32.svg` were generated from `assets/logo.svg`.
