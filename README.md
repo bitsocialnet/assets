@@ -14,9 +14,9 @@ All distributable files live in [assets](assets).
 
 ### Logo
 
-- `logo.svg` is the full SVG logo export.
+- `logo.svg` is the editable vector master for the logo exports.
 - `logo-32.svg` is the 32 x 32 SVG icon export.
-- `logo.ai` is the Adobe Illustrator source export.
+- `logo.ai` is a PDF-compatible vector export for Illustrator, generated from the SVG master. It contains vector paths and gradients, without a separate proprietary Illustrator editing payload.
 - `logo.eps` is the EPS source export.
 
 PNG logo exports are provided at `32`, `64`, `96`, `180`, `512`, `1024`, and `3000` pixels:
@@ -37,6 +37,8 @@ The `banner-*` files are the reusable hero/banner assets currently used by the B
 ## Export Notes
 
 Logo PNGs and `logo-32.svg` were generated from `assets/logo.svg`.
+
+AI and EPS exports were also generated from the SVG master. The flattened banner artwork was color-graded while preserving its framing, neutral network backgrounds, and alpha. Banner WebP exports are lossless.
 
 Recommended defaults:
 
