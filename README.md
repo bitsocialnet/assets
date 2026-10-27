@@ -34,11 +34,20 @@ PNG logo exports are provided at `32`, `64`, `96`, `180`, `512`, `1024`, and `30
 
 The `banner-*` files are the reusable hero/banner assets currently used by the Bitsocial web surfaces.
 
+- `banner-mesh-wide-dark.*`
+- `banner-mesh-wide-light.*`
+- `banner-mesh-compact-dark.*`
+- `banner-mesh-compact-light.*`
+
+The `banner-mesh-*` files are background-only variants at the same sizes, showing just the polygon mesh from the Bitsocial websites in its fully active, glowing state.
+
 ## Export Notes
 
 Logo PNGs and `logo-32.svg` were generated from `assets/logo.svg`.
 
 AI and EPS exports were also generated from the SVG master. The flattened banner artwork was color-graded while preserving its framing, neutral network backgrounds, and alpha. Banner WebP exports are lossless.
+
+The `banner-mesh-*` exports use bitsocial-web's `PolygonMeshBackground` mesh with its glow sweep frozen at full pointer speed, tuned for banners (smaller cells, more and brighter glowing segments), on the sites' white and black backgrounds.
 
 Recommended defaults:
 
