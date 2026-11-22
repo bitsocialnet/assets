@@ -4,9 +4,26 @@ Official Bitsocial visual assets.
 
 ## License
 
-Unless otherwise noted, the assets in this repository are licensed under the GNU General Public License v3.0 or later (`GPL-3.0-or-later`). See [LICENSE](LICENSE).
+The Bitsocial logo and banners in [assets/](assets/) are licensed under [Creative Commons Attribution-ShareAlike 4.0 International](assets/LICENSE.txt) (`CC-BY-SA-4.0`). You may use them commercially. When sharing the artwork, credit Bitsocial, link to the license, and indicate any changes. If you share an adaptation, license it under CC BY-SA 4.0 or a compatible license.
 
-The Bitsocial name and logo may also function as project marks. The copyright license permits copying, modification, and redistribution of the asset files; it does not grant permission to misrepresent affiliation, endorsement, or ownership.
+For an unmodified asset, you can use this credit.
+
+> [Bitsocial artwork](https://github.com/bitsocialnet/assets) by Bitsocial, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+The Bitsocial name and logo may function as project marks. Use of the artwork does not imply affiliation with or endorsement by Bitsocial.
+
+Copies of the artwork previously distributed under GPL-3.0-or-later may still be used and redistributed under those terms. The [root GPL-3.0-or-later license](LICENSE) also covers repository code.
+
+## Other project logos
+
+Each project maintains its own logo. Follow the links for the artwork and its repository license.
+
+| Project | Logo files | Repository license |
+| --- | --- | --- |
+| 5chan | [5chan logo](https://github.com/bitsocialnet/5chan/blob/master/public/assets/logo/logo-transparent.png) | [GPL-3.0-or-later](https://github.com/bitsocialnet/5chan/blob/master/LICENSE) |
+| Seedit | [Sprout and wordmarks](https://github.com/bitsocialnet/seedit/tree/master/public/assets/sprout) | [GPL-3.0-or-later](https://github.com/bitsocialnet/seedit/blob/master/LICENSE) |
+| Infinipedia | [Logo kit](https://github.com/bitsocialnet/infinipedia/blob/master/design/logo/README.md) | [GPL-3.0-or-later](https://github.com/bitsocialnet/infinipedia/blob/master/LICENSE) |
+| ModelSwarm | [Vector logo](https://github.com/bitsocialnet/modelswarm/blob/master/public/logo.svg) | [GPL-3.0-or-later](https://github.com/bitsocialnet/modelswarm/blob/master/LICENSE) |
 
 ## Files
 
