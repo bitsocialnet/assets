@@ -12,7 +12,7 @@ For an unmodified asset, you can use this credit.
 
 The Bitsocial name and logo may function as project marks. Use of the artwork does not imply affiliation with or endorsement by Bitsocial.
 
-For repository code, see the [GPL-3.0-or-later license](LICENSE).
+Copies of the artwork previously distributed under GPL-3.0-or-later may still be used and redistributed under those terms. The [root GPL-3.0-or-later license](LICENSE) also covers repository code.
 
 ## Other project logos
 
